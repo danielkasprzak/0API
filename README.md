@@ -1,5 +1,5 @@
 # 0API
-Web API build with ASP.NET Core 9, utilizing Entity Framework Core for interaction with a MySQL database.
+Web API built with ASP.NET Core 9, utilizing Entity Framework Core for interaction with a MySQL database.
 
 ### Requirements
 - .NET 9
